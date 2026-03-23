@@ -1,4 +1,4 @@
-<img width="597" height="446" alt="image" src="https://github.com/user-attachments/assets/fe9eb170-22ae-48fa-826d-fa4c0e3c74be" />Projeto de Introdução a IoT (Segunda Unidade)
+Projeto de Introdução a IoT (Segunda Unidade)
 
 Alunas: Déborah Kelly Macedo de Sousa e Júlia Lima dos Santos
 
